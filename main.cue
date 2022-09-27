@@ -1,5 +1,9 @@
 package apptpl
 
+import (
+    "encoding/yaml"
+)
+
 // Deployment template containing all the common boilerplate shared by
 // deployments of this application.
 #Deployment: {
